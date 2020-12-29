@@ -36,7 +36,7 @@ public class FunctionCalls {
 		
 				
 		//-----------------------Delete a key from the file/datastore---------------------
-		propertiesDb.delete("Address");
+		//propertiesDb.delete("Address");
 		System.out.println();
 		System.out.println("After deleting a key");
 		System.out.println(propertiesDb.read());
