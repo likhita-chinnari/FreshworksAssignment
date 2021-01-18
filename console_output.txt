@@ -1,0 +1,8 @@
+-- listing properties --
+Name=abc
+Email=abc123@gmail.com
+Address=abc123@gmail.com
+{Name=abc, Email=abc123@gmail.com, Address=abc123@gmail.com}
+
+After deleting a key
+{Name=abc, Email=abc123@gmail.com}
